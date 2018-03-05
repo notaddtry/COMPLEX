@@ -2,7 +2,7 @@
 #define COMPLEX_H
 #include<iostream>
 #include <cmath>
-#include <string.h>
+#include <сstring>
 using namespace std;
 typedef struct vortex * complex;
 typedef struct vortex {
