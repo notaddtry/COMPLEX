@@ -3,7 +3,7 @@ int main() {
 	vortex z1, z2, z3;
 	double z;
 	char operation = ' ';
-	print_interface(select);
+	print_interface(operation);
 	cin >> operation;
 	switch (operation) {
 	   case'+': {
